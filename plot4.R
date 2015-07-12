@@ -20,4 +20,4 @@ plot4 <- function(file){
      dev.off()
 }
 
-plot4('C:/Users/Andy/Desktop/Exploratory Data Analysis/Week1/household_power_consumption.txt')
+plot4('file')
